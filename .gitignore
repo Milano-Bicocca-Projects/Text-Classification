@@ -1,0 +1,7 @@
+# Dataset files
+Reviews.csv
+database.sqlite
+
+# Byte-compiled / cache
+.ipynb_checkpoints/
+__pycache__/
