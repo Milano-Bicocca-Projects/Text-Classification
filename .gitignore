@@ -1,8 +1,4 @@
-# Dataset files
-data/*
-Reviews.csv
-database.sqlite
-
 # Byte-compiled / cache
+.vscode
 .ipynb_checkpoints/
 __pycache__/
